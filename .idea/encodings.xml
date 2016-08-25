@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/app/src/main/java/net/sourceforge/simcpux/AppRegister.java" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/net/sourceforge/simcpux/Constants.java" charset="GB18030" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/net/sourceforge/simcpux/GetFromWXActivity.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/net/sourceforge/simcpux/Util.java" charset="GB18030" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/net/sourceforge/simcpux/wxapi/WXEntryActivity.java" charset="GB18030" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
